@@ -4,4 +4,4 @@ function updateObjectWithKeyAndValue(object, key, value){
   return Object.assign({}, object, { [key]: value });
 }
 
-console.log(updateObjectWithKeyAndValue);
+console.log(object);
